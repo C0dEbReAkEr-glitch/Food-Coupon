@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+t!8_j+w@4s2zeesg&ypm32$reb-=%5==l8%o8z95q^28%3ljb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['food-coupon.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
